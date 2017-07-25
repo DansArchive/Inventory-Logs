@@ -1,0 +1,4 @@
+[4-19-2017/6:22:4 PM] - [Savato Almore:STEAM_0:0:78286240] TRADED [$0] [0 credits] [] FOR [Tyrone Lattarius:STEAM_0:1:72058564] [$24000] [0 credits] []
+[4-19-2017/8:0:24 PM] - [Tyrone Lattarius:STEAM_0:1:72058564] TRADED [$0] [0 credits] [] FOR [Christina Kiddo:STEAM_0:1:15723522] [$20000] [0 credits] []
+[4-19-2017/9:54:4 PM] - [Julian Blight:STEAM_0:0:94702006] TRADED [$0] [0 credits] [tfcss_galil:1] FOR [Fire Mixtape:STEAM_0:0:63326801] [$0] [0 credits] [food_potato:1,food_carrot:1]
+[4-19-2017/10:24:39 PM] - [Fire Mixtape:STEAM_0:0:63326801] TRADED [$0] [0 credits] [tfa_ava_trigun:1] FOR [Tyrone Lattarius:STEAM_0:1:72058564] [$40000] [0 credits] []

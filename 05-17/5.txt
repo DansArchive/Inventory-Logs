@@ -1,0 +1,6 @@
+[5-5-2017/7:52:32 PM] - [Sir David:STEAM_0:1:67112434] TRADED [$0] [0 credits] [rp_weed:4] FOR [Jeff Demerr:STEAM_0:0:100457504] [$0] [0 credits] []
+[5-5-2017/9:18:5 PM] - [Chill Vibe:STEAM_0:1:47991133] TRADED [$0] [0 credits] [] FOR [Jeff Demerr:STEAM_0:0:100457504] [$3000] [0 credits] []
+[5-5-2017/10:48:0 PM] - [Qr Xion:STEAM_0:0:96229570] TRADED [$80] [0 credits] [] FOR [Lastname Firstname:STEAM_0:1:212479737] [$0] [0 credits] [seeds_melon:10]
+[5-5-2017/10:56:51 PM] - [Tovarish Comrade:STEAM_0:0:32770623] TRADED [$1000] [0 credits] [] FOR [Jake Jew:STEAM_0:0:134416642] [$0] [0 credits] [tfcss_ak47:1,ent_ammo_smg1:1]
+[5-5-2017/11:22:8 PM] - [Jake Jew:STEAM_0:0:134416642] TRADED [$0] [0 credits] [tfcss_glock:2,tfcss_ak47:2] FOR [Matt Schwarts:STEAM_0:0:50454600] [$0] [0 credits] [tfcss_css_c4:1]
+[5-5-2017/11:34:5 PM] - [Richard Burns:STEAM_0:0:78486769] TRADED [$0] [0 credits] [] FOR [Jake Jew:STEAM_0:0:134416642] [$0] [0 credits] [ent_beer:3,rp_weed_3:1]

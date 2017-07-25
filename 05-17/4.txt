@@ -1,0 +1,5 @@
+[5-4-2017/1:59:12 PM] - [Jeff Demerr:STEAM_0:0:100457504] TRADED [$0] [0 credits] [] FOR [Sido Olavich:STEAM_0:0:30648247] [$0] [0 credits] [rp_weed_2:1,tfcss_xm1014:1,rp_weed:3,tfcss_ak47:2]
+[5-4-2017/2:55:53 PM] - [John Don:STEAM_0:0:63786718] TRADED [$0] [0 credits] [tfa_ava_tmptw:1] FOR [Jack Bushross:STEAM_0:1:58009824] [$500000] [0 credits] []
+[5-4-2017/3:11:54 PM] - [Sir Logan:STEAM_0:1:55282435] TRADED [$0] [0 credits] [rp_uber_ghoster:1] FOR [Jack Bushross:STEAM_0:1:58009824] [$750000] [0 credits] []
+[5-4-2017/3:53:36 PM] - [Jack Bushross:STEAM_0:1:58009824] TRADED [$0] [0 credits] [] FOR [Nignog Mcjog:STEAM_0:1:76090540] [$100000] [0 credits] []
+[5-4-2017/11:10:23 PM] - [Matt Schwarts:STEAM_0:0:50454600] TRADED [$0] [0 credits] [tfcss_css_c4:1,tfcss_ak47:2,tfcss_glock:1,tfcss_cssfrag:1,ent_ammo_shotgun:1,ent_ammo_pistol:2,tfcss_xm1014:1] FOR [Infinity Dotexe:STEAM_0:0:47593908] [$10000] [0 credits] []

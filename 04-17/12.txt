@@ -1,0 +1,4 @@
+[4-12-2017/6:25:30 PM] - [Pedro Remirez:STEAM_0:0:63135926] TRADED [$0] [0 credits] [] FOR [Julian Blight:STEAM_0:0:94702006] [$70000] [0 credits] []
+[4-12-2017/6:26:43 PM] - [Johnny Knoxville:STEAM_0:1:64064561] TRADED [$0] [0 credits] [] FOR [Pedro Remirez:STEAM_0:0:63135926] [$15000] [0 credits] []
+[4-12-2017/7:40:29 PM] - [Kevin Wallace:STEAM_0:1:105296386] TRADED [$0] [0 credits] [tfcss_ak47:4] FOR [Creighton Goodwin:STEAM_0:1:45585207] [$6000] [0 credits] []
+[4-12-2017/7:41:2 PM] - [Kevin Wallace:STEAM_0:1:105296386] TRADED [$0] [0 credits] [tfcss_glock:2] FOR [Creighton Goodwin:STEAM_0:1:45585207] [$1500] [0 credits] []

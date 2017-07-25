@@ -1,0 +1,5 @@
+[4-5-2017/8:8:1 PM] - [John Doe:STEAM_0:0:86593624] TRADED [$0] [0 credits] [rp_weed:1] FOR [Mr Wool:STEAM_0:0:133280120] [$0] [0 credits] []
+[4-5-2017/8:9:45 PM] - [John Doe:STEAM_0:0:86593624] TRADED [$0] [0 credits] [tfcss_glock:1] FOR [Mr Wool:STEAM_0:0:133280120] [$750] [0 credits] []
+[4-5-2017/8:17:31 PM] - [John Doe:STEAM_0:0:86593624] TRADED [$0] [0 credits] [tfcss_xm1014:1,tfcss_ak47:1] FOR [Mr Wool:STEAM_0:0:133280120] [$3500] [0 credits] []
+[4-5-2017/8:57:37 PM] - [Dr Shark:STEAM_0:1:77345465] TRADED [$0] [0 credits] [] FOR [Jiblet Jimmy:STEAM_0:1:65212940] [$100000] [0 credits] []
+[4-5-2017/9:25:47 PM] - [Marquis Lattarius:STEAM_0:0:63380317] TRADED [$0] [0 credits] [] FOR [Tim Funnyman:STEAM_0:0:22860281] [$0] [10 credits] []
